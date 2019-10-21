@@ -12,3 +12,5 @@ $ pip install json
 $ pip install difflib
 $ python dict.py
 ```
+
+![alt text](https://raw.githubusercontent.com/hrithikkothari1234/Dictionary/master/dictimage.png)
